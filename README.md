@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy Logo" width="200">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy Logo" width="220">
 </p>
 
-<h1 align="center"> NumPY Application  </h>
+<h1 align="center"> NumPy Application  </h>
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-blue.svg">
