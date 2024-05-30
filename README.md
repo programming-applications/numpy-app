@@ -14,3 +14,8 @@
 - [Overview](#overview)
 - [Integrated-development-environment](#integrated-development-environment)
 - [Configuration](#configuration)
+- [Credentials](#credentials)
+
+<p align="center">
+  <img src="IBM AI Developer Specialization 3NRSUV8WPKEP.jpg" alt="Machine Learning Logo" width="825">
+</p>
